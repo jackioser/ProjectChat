@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Property List.plist
+   TXJIOSPlayer
+
+   Created by jack on 2021/2/3.
+   Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<array>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://183.220.196.138:20008/fsdata/2021-01/c5c0be01-9a5f-4951-9010-9e77ac7fcc7c/c5c0be01-9a5f-4951-9010-9e77ac7fcc7c.apk</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://kaig.chuangkegf.com/profile/down_image_57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://kaig.chuangkegf.com/profile/down_image_512.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>title</key>
+                <string>360全景</string>
+                <key>bundle-version</key>
+                <string>1.4.3</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>bundle-identifier</key>
+                <string>com.scgcube.player</string>
+            </dict>
+        </dict>
+    </array>
+</array>
+</plist>
